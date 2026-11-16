@@ -12,3 +12,5 @@ Wishing you a good day!
 * [WebLogic CVE-2017-10271 RCE Writeup](writeup/10.7%20CTF%20writeup.md)
 * [ThinkPHP 5.0.9 SQL Injection Writeup](writeup/11.15%20ThinkPHP%20SQL%20Injection.md)
 * [ThinkPHP 5.0.23 RCE 绕过WAF Writeup](writeup/11.15%20ThinkPHP%205.0.23-RCE%20%E7%BB%95%E8%BF%87WAF.md)
+* [ThinkPHP 5.0.20 RCE Writeup](writeup/11.16%20ThinkPHP%205.0.20%20RCE.md)
+* 
