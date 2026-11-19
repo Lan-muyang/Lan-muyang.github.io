@@ -18,3 +18,4 @@ Wishing you a good day!
 * [ThinkPHP 6 多语言 LFI Getshell Writeup](writeup/11.16%20ThinkPHP%206%20%E5%A4%9A%E8%AF%AD%E8%A8%80%20LFI%20%E5%8C%85%E5%90%AB%20pearcmd%20Getshell.md)
 * [Struts2 S2-001 OGNL 注入RCE Writeup](writeup/11.17%20Struts2%20S2-001%20OGNL%E6%B3%A8%E5%85%A5RCE.md)
 * [ActiveMQ CVE-2016-3088 文件写入RCE Writeup](writeup/11.17%20ActiveMQ%20CVE-2016-3088%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5RCE.md)
+* [BUUCTF PHP XXE 环境变量读取 Writeup](https://Lan-muyang.github.io/writeup/11.19-BUUCTF-PHP-XXE-environ.md)
