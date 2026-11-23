@@ -20,3 +20,4 @@ Wishing you a good day!
 * [ActiveMQ CVE-2016-3088 文件写入RCE Writeup](writeup/11.17%20ActiveMQ%20CVE-2016-3088%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5RCE.md)
 * [BUUCTF PHP XXE 环境变量读取 Writeup](https://Lan-muyang.github.io/writeup/11.19-BUUCTF-PHP-XXE-environ.md)
 * [DASCTF Samba CVE-2017-7494 匿名共享到 root Writeup](writeup/11.23-DASCTF-Samba-CVE-2017-7494.md)
+* [DASCTF Supervisor CVE-2017-11610 盲 RCE 回显 Writeup](writeup/11.23-DASCTF-Supervisor-CVE-2017-11610.md)
