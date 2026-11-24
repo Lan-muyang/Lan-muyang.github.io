@@ -21,3 +21,4 @@ Wishing you a good day!
 * [BUUCTF PHP XXE 环境变量读取 Writeup](https://Lan-muyang.github.io/writeup/11.19-BUUCTF-PHP-XXE-environ.md)
 * [DASCTF Samba CVE-2017-7494 匿名共享到 root Writeup](writeup/11.23-DASCTF-Samba-CVE-2017-7494.md)
 * [DASCTF Supervisor CVE-2017-11610 盲 RCE 回显 Writeup](writeup/11.23-DASCTF-Supervisor-CVE-2017-11610.md)
+* [DASCTF Struts2 CVE-2017-9791 OGNL 沙箱绕过 Writeup](writeup/11.24-DASCTF-Struts2-CVE-2017-9791.md)
