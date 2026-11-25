@@ -22,3 +22,4 @@ Wishing you a good day!
 * [DASCTF Samba CVE-2017-7494 匿名共享到 root Writeup](writeup/11.23-DASCTF-Samba-CVE-2017-7494.md)
 * [DASCTF Supervisor CVE-2017-11610 盲 RCE 回显 Writeup](writeup/11.23-DASCTF-Supervisor-CVE-2017-11610.md)
 * [DASCTF Struts2 CVE-2017-9791 OGNL 沙箱绕过 Writeup](writeup/11.24-DASCTF-Struts2-CVE-2017-9791.md)
+* [DASCTF Struts2 S2-045 Content-Type OGNL 注入 Writeup](writeup/11.25-DASCTF-Struts2-s2-045.md)
